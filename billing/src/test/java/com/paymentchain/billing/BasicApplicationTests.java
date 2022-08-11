@@ -11,6 +11,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class BasicApplicationTests {
 
+//Test
 	@Test
 	public void contextLoads() {
 		String message = "default message cambio l1";
